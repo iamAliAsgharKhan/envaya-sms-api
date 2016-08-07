@@ -1,0 +1,16 @@
+{
+	"name": "sms-service",
+	"description": "",
+	"require": {
+		"php": ">=5.6.0",
+		"slim/slim": "^3.0",
+		"monolog/monolog": "^1.18",
+	    "datadog/php-datadogstatsd": "0.3.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/",
+			"App\\Test\\": "tests/"
+		}
+	}
+}

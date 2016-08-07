@@ -1,0 +1,12 @@
+{
+  "action": "outgoing",
+  "version": "30",
+  "phone_number": "+4561275680",
+  "send_limit": "100",
+  "now": "1456957826847",
+  "settings_version": "0",
+  "battery": "88",
+  "power": "0",
+  "network": "WIFI",
+  "log": "[11:30:26 PM]\n  Checking for messages\n"
+}

@@ -1,0 +1,19 @@
+(
+    [id] => a980df70ff99672b
+    [status] => sent
+    [error] =>
+    [action] => send_status
+    [version] => 30
+    [phone_number] => +4542455680
+    [phone_id] =>
+    [phone_token] =>
+    [send_limit] => 100
+    [now] => 1457135749514
+    [settings_version] => 0
+    [battery] => 55
+    [power] => 0
+    [network] => WIFI
+    [log] => [12:55:49 AM]
+Notifying server SMS sent successfully
+
+)

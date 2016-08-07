@@ -1,0 +1,12 @@
+{
+  "action": "outgoing",
+  "version": "30",
+  "phone_number": "+4561275680",
+  "send_limit": "100",
+  "now": "1456958345816",
+  "settings_version": "0",
+  "battery": "87",
+  "power": "0",
+  "network": "WIFI",
+  "log": "Real-time connection disabled\n  [11:37:30 PM]\nChecking for messages\nError while contacting server: org.apache.http.conn.HttpHostConnectException: Connection to https://blamh.com refused\nReal-time connection disabled\n[11:38:23 PM]\nTesting server connection...\nError while contacting server: org.apache.http.conn.HttpHostConnectException: Connection to https://blamh.com refused\nChecking for messages\nError while contacting server: org.apache.http.conn.HttpHostConnectException: Connection to https://blamh.com refused\nTest mode changed to: ON\nTest mode changed to: OFF\n[11:38:58 PM]\nReal-time connection disabled\nChecking for messages\n"
+}

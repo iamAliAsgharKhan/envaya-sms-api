@@ -1,0 +1,12 @@
+{
+  "action": "test",
+  "version": "30",
+  "phone_number": "+4561275680",
+  "send_limit": "100",
+  "now": "1456957993156",
+  "settings_version": "0",
+  "battery": "88",
+  "power": "0",
+  "network": "WIFI",
+  "log": "[11:33:13 PM]\n  Testing server connection...\n"
+}
